@@ -1,6 +1,8 @@
-# testflutter01
+# flutter
 
-A new Flutter project.
+this is resaurants app build on flutter 
+
+## version 
 
 ## Getting Started
 
@@ -14,4 +16,13 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-# restaurants-mobile-app-with-flutter
+
+## Contributor 
+
+-Hirushar Randunu<hirusharandunu11@gmail.com>
+
+## License & copyright
+
+© Hirusha Randunu, Undegraduate student 
+
+Licensed under the[MIT License](LICENSE)
