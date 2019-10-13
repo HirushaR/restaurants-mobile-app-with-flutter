@@ -1,6 +1,6 @@
 # flutter
 
-this is resaurants app build on flutter 
+this is restaurants app build on flutter 
 
 ## version 
 
@@ -19,10 +19,10 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Contributor 
 
--Hirushar Randunu<hirusharandunu11@gmail.com>
+-Hirusha Randunu<hirusharandunu11@gmail.com>
 
 ## License & copyright
 
-© Hirusha Randunu, Undegraduate student 
+© Hirusha Randunu, Undergraduate student 
 
 Licensed under the[MIT License](LICENSE)
